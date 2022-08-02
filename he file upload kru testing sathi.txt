@@ -1,0 +1,10 @@
+<?php
+
+<p>testing git hub</p>
+echo"ATA YA FILE MADHE KAHI TRI VARTI PATHVTO"
+ata paha eth kahi nhi ahe git hub cha ya file var 
+he paha kahi nhi ahe
+ata apan ya file madhe he kahi tri lihat aho ani 
+push kru tr github cha ya file madhe ha purn data yeil
+
+?>
